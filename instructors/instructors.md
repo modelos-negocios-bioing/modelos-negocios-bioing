@@ -2,7 +2,7 @@
 layout: instructor
 ---
 ### Coordinador General - Modelos de Negocios en BioIngenieria
-![Alt text](/instructors/pedro_segura.png){:height="140px" width="140px"}
+![Alt text](/instructors/diego_venegas.png){:height="140px" width="140px"}
 
 * Diego Venegas | diego.venegas@upch.pe*
 ><div style="text-align: justify"> Médico Oncólogo con maestría en bioestadística, postgrado en formulación y evaluación de proyectos de inversión pública en proyectos sociales; así como Gestión pública y gobierno. Investigador clínico en Inmunoterapia de cáncer de Pulmón, Experiencia en salud básica, clínica y pública. Gestión y organización de equipos profesionales multidisciplinarios, experiencia en el sistema de salud del Perú, como coordinador del Plan Nacional Integral del Cáncer y Asesor del Viceministerio de prestaciones y aseguramiento del Ministerio de Salud y ex Director del Instituto Peruano de Investigación y Biotecnología. Ex - Jefe del Seguro Integral de Salud, Ex Jefe del Fondo Intangible Solidario de Salud – FISSAL. Ex -Viceministro de Prestaciones y Aseguramiento en Salud del Ministerio de Salud. Gerente se Salud Pública de la Municipalidad de San Borja, donde viene implementando el modelo de redes integradas en salud, observatorio dinámico de salud y plataforma de telemedicina </div>
