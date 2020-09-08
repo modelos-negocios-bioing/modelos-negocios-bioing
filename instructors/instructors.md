@@ -1,7 +1,7 @@
 ---
 layout: instructor
 ---
-### Coordinador General - Procesos de Innovacion en BioIngenieria
+### Coordinador General - Modelos de Negocios en BioIngenieria
 ![Alt text](){:height="140px" width="140px"}
 
 * Diego Venegas | diego.venegas@upch.pe*
