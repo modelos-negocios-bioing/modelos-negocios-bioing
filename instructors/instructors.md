@@ -24,3 +24,9 @@ layout: instructor
 
 * Alberto Barrenechea| alberto.barrenechea@upch.pe*
 ><div style="text-align: justify"> Economista de la Universidad del Pacífico con MBA en la Universidad del Pacífico. Maestría en Economía de la Salud y Farmacoeconomía en la Universidad Pompeu Fabra (España), Postgrado en FLACSO (Chile) y CIESS (México). Ex Gerente de Planeamiento Corporativo de EsSalud. Consultor en temas de gestión y economía de la salud en SIS, FISSAL, MINSA, ONUSIDA, OIT, OPS. Consultor en temas de gestión pública e investigación en MEF. MINTRA, MINSA, MIDIS y MINCUL. Docente de postgrado en Universidad del Pacífico: Economía Empresarial, Precios y Canales, Neuromarketing, Universidad San Ignacio de Loyola: Planeamiento, Finanzas, Gestión Basada en Resultados y PPR, ENAP-Servir: Gestión Pública, Planeamiento, Gestión (GBR) y Presupuesto por Resultados (PPR), Universidad Científica del Sur: Economía y Financiamiento de la Salud Ocupacional, Universidad Peruana Cayetano Heredia: Planeamiento, Estadística, Economía de Salud. Director del Diario digital Management Salud . Gerente de la Consultora Decisión, gestión, economía y negocios en salud. </div> 
+
+
+
+* Luis Sanchez| luis.sanchez@upch.pe*
+><div style="text-align: justify"> Ingeniero Industrial, con Maestría en economía de la Salud por la Facultad de Economía de la Universidad Nacional Mayor de San Marcos, amplia experiencia en gestión de empresas en el rubro farmacéutico y biotecnología, con amplia experiencia en el posicionamiento de medicamentos innovadores y biológicos orientado hacia el desarrollo de la biotecnología en el Perú,  fundador de la empresa Quality Pharma SAC y del Instituto Peruano de Investigación y Biotecnología SAC, ha promovido diversas investigaciones y emprendimientos en asociación con universidades nacionales y centros de investigación internacionales. </div> 
+
