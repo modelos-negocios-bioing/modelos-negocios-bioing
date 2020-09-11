@@ -1,7 +1,7 @@
 ---
 layout: instructor
 ---
-### Coordinador General - Modelos de Negocios en BioIngenieria
+### Coordinador del Curso - Modelos de Negocios en BioIngenieria
 ![Alt text](/instructors/diego_venegas.png){:height="140px" width="140px"}
 
 * Diego Venegas | diego.venegas@upch.pe 
